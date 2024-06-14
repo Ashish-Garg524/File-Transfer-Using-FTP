@@ -1,1 +1,53 @@
 # File-Transfer-Using-FTP
+
+#  About The Project
+
+# Purpose of project
+
+The purpose of this project was to design a file transfer protocol (FTP) platform that would allow college professors to upload any document to a website. Additionally, the platform would allow students to download files only if they were connected to the college network. The platform was designed to provide a secure and reliable means of sharing documents between professors and students within the college environment.
+
+# 📷 Screenshots
+
+![3](https://github.com/Ashish-Garg524/File-Transfer-Using-FTP/assets/126554751/60d9e27f-2049-4e1a-9d57-48fe1eb6e8d0)
+
+
+# 📖 Key features
+
+	Admin Features
+		.Admin can upload any document to the platform. The platform accepts a wide range of document formats including PDF, DOC, DOCX, PPT, and PPTX.
+		.Admin can delete files or update them as needed.
+
+	User Features
+		.User can only download files if they are in range of the network authorized by admin.
+
+# Built With
+ 	Python, Django, HTML, CSS, Javascript
+
+# How To Run
+
+In terminal using vs code you will need this commands
+		1. Install Python
+		2.  Install Django:
+							
+							python --version
+							pip --version
+					
+							py -m pip install Django
+							python -m django --version
+			 
+		3. Install ipware:
+						pip install django-ipware
+		
+		4. Install the pycryptodome package:
+						py -m pip install pycryptodome
+		
+		5. Start the Server:
+						python manage.py runserver
+		
+		6. login details:
+						username = ashish@rvce.edu.in   |  password = rvce@1234
+						username = admin@rvce.edu.in    |  password = admin@rvce
+
+# Note
+
+This project is an educational project for me, and I programmed this project according to the course Computer Network.
