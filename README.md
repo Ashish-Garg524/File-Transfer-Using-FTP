@@ -1,4 +1,4 @@
-# 										File-Transfer-Using-FTP
+#                                                                                            File-Transfer-Using-FTP
 
 
 # Purpose of project
@@ -24,30 +24,31 @@ User Features
 - User can only download files if they are in range of the network authorized by admin.
 
 # Built With
- Python, Django, HTML, CSS, Javascript
+- Python, Django, HTML, CSS, Javascript
 
 # How To Run
 
 In terminal using vs code you will need this commands
 
-1. Install Python
-2. Install Django:				
+Install Python
+
+Install Django:				
 - python --version
 - pip --version
 					
 - py -m pip install Django
 - python -m django --version
 			 
-3. Install ipware:
+Install ipware:
 - pip install django-ipware
 		
-4. Install the pycryptodome package:
+Install the pycryptodome package:
 - py -m pip install pycryptodome
 		
-5. Start the Server:
+Start the Server:
 - python manage.py runserver
 		
-6. login details:
+login details:
 - username = ashish@rvce.edu.in   |  password = rvce@1234
 - username = admin@rvce.edu.in    |  password = admin@rvce
 
