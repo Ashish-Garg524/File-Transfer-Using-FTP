@@ -1,6 +1,5 @@
-# File-Transfer-Using-FTP
+# 										File-Transfer-Using-FTP
 
-#  About The Project
 
 # Purpose of project
 
@@ -8,45 +7,49 @@ The purpose of this project was to design a file transfer protocol (FTP) platfor
 
 # 📷 Screenshots
 
-![3](https://github.com/Ashish-Garg524/File-Transfer-Using-FTP/assets/126554751/60d9e27f-2049-4e1a-9d57-48fe1eb6e8d0)
+![1](https://github.com/Ashish-Garg524/File-Transfer-Using-FTP/assets/126554751/05b3a3d5-6baf-4bb9-ab98-b51cb0faf2ac)
+
+![2](https://github.com/Ashish-Garg524/File-Transfer-Using-FTP/assets/126554751/a845bc84-9b32-4445-8b8e-da859f93e9ea)
+
+![3](https://github.com/Ashish-Garg524/File-Transfer-Using-FTP/assets/126554751/0a77de8e-85c8-4c63-b6ae-dcc33aa0a7e2)
 
 
 # 📖 Key features
 
-	Admin Features
-		.Admin can upload any document to the platform. The platform accepts a wide range of document formats including PDF, DOC, DOCX, PPT, and PPTX.
-		.Admin can delete files or update them as needed.
+Admin Features
+- Admin can upload any document to the platform. The platform accepts a wide range of document formats including PDF, DOC, DOCX, PPT, and PPTX.
+- Admin can delete files or update them as needed.
 
-	User Features
-		.User can only download files if they are in range of the network authorized by admin.
+User Features
+- User can only download files if they are in range of the network authorized by admin.
 
 # Built With
- 	Python, Django, HTML, CSS, Javascript
+ Python, Django, HTML, CSS, Javascript
 
 # How To Run
 
 In terminal using vs code you will need this commands
-		1. Install Python
-		2.  Install Django:
-							
-							python --version
-							pip --version
+
+1. Install Python
+2. Install Django:				
+- python --version
+- pip --version
 					
-							py -m pip install Django
-							python -m django --version
+- py -m pip install Django
+- python -m django --version
 			 
-		3. Install ipware:
-						pip install django-ipware
+3. Install ipware:
+- pip install django-ipware
 		
-		4. Install the pycryptodome package:
-						py -m pip install pycryptodome
+4. Install the pycryptodome package:
+- py -m pip install pycryptodome
 		
-		5. Start the Server:
-						python manage.py runserver
+5. Start the Server:
+- python manage.py runserver
 		
-		6. login details:
-						username = ashish@rvce.edu.in   |  password = rvce@1234
-						username = admin@rvce.edu.in    |  password = admin@rvce
+6. login details:
+- username = ashish@rvce.edu.in   |  password = rvce@1234
+- username = admin@rvce.edu.in    |  password = admin@rvce
 
 # Note
 
